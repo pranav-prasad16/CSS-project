@@ -1,4 +1,4 @@
-#Landing Page
+## Landing Page
 
 This is a practice project which i made to practice making responsive websites.
 Keep coding :-)
